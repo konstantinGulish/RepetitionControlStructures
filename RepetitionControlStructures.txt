@@ -1,0 +1,99 @@
+Can't Get Enough of Program Design
+
+1.
+ALGORITHM:
+The program receives 15 measurements and converts them to metric equivalent.
+After all measurements are entered the messsage "All measurements processed" shall be displayed on the screen. 
+
+INPUTS: 
+15 measurements
+
+PROCESSING
+convert each measurement to metric
+
+OUTPUT
+metric equivalent for each of measurements and "All measurements processed"  messsage.
+
+PSEUDOCODE
+counter = 0
+DO WHILE counter < 15
+	promt for and read in a measurement
+	convert measurement to metric
+	display the result in metric
+	move to the next line
+	counter = counter + 1
+ENDDO
+Display "All measurements processed"
+
+2. 
+ALGORITHM:
+The program receives 15 measurements and converts them to metric equivalent.
+After all measurements are entered the messsage "All measurements processed" shall be displayed on the screen. 
+
+INPUTS: 
+15 measurements
+
+PROCESSING
+convert each measurement to metric
+
+OUTPUT
+metric equivalent for each of measurements and "All measurements processed"  messsage.
+
+PSEUDOCODE
+counter = 1
+REPEAT
+	promt for and read in a measurement
+	convert measurement to metric
+	display the result in metric
+	move to the next line
+	counter = counter + 1
+UNTIL counter > 15
+Display "All measurements processed"
+
+
+
+3.
+
+ALGORITHM:
+The program receives 15 measurements and converts them to metric equivalent.
+After all measurements are entered the messsage "All measurements processed" shall be displayed on the screen. 
+
+INPUTS: 
+15 measurements
+
+PROCESSING
+convert each measurement to metric
+
+OUTPUT
+metric equivalent for each of measurements and "All measurements processed"  messsage.
+
+PSEUDOCODE
+DO loop-index = 1 to 15
+	promt for and read in a measurement
+	convert measurement to metric
+	display the result in metric
+	move to the next line
+ENDDO
+
+2.
+ALGORITHM:
+The program receives 15 measurements and converts them to metric equivalent.
+After all measurements are entered the messsage "All measurements processed" shall be displayed on the screen. 
+
+INPUTS: 
+15 measurements
+
+PROCESSING
+convert each measurement to metric
+
+OUTPUT
+metric equivalent for each of measurements and "All measurements processed"  messsage.
+
+PSEUDOCODE
+DO loop-index = 1 to 15
+	promt for and read in a measurement
+	convert measurement to metric
+	display the result in metric
+	move to the next line
+ENDDO
+Display "All measurements processed"
